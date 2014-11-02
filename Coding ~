@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> Kaley Allan Portfolio </title>
+<h1> Kaley Allan Portfolio</h1>
+
+
+</head>
+
+<body>
+<style>
+
+body{
+	background: lightblue;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	float:right;
+}
+
+img{
+	height:2em;
+	width: 2em;
+}
+</style>
+
+<h2>About</h2>
+<h2>Education</h2>
+<h2>Work and Internships</h2>
+<h2>Contact Information</h2>
+
+<img src="fb_icon_325x325.jpg">
+
+
+</body>
+</html>
