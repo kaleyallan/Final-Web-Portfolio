@@ -9,6 +9,30 @@
 </head>
 
 <body>
+<style>
+
+body{
+	background: lightyellow;
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	height:2em;
+	width: 2em;
+	
+}
+.navigationbar{
+	float:left;
+}
+.education{
+	float:left;
+}
+
+
+</style>
 
 <div class="navigationbar" style="float:left;">
 About
