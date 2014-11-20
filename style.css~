@@ -1,32 +1,36 @@
 <style>
 
 body{
-	background-color: #D7EEFA;
+	background: #D7EEFA;
 	font-family: 'Raleway', sans-serif;
-	
 }
 
 h1{
 	text-align: center;
 	background: #D7EEFA;
 	font-family: 'Pacifico', cursive;
-	margin:1em;
-	font-size: 400%;
 }
 
 img{
 	
 	
 }
-
-
 .navigationbar{
 	float:left;
-	margin:5.5em;
-	padding:1.5em;
-	background-color:#D7EEFA;
-	
 }
+.education{
+	float:left;
+}
+.about{
+	float:left;
+}
+.workandinterships{
+	float:left;
+}
+.contactinformation{
+	float:left;
+}
+
 
 
 </style>

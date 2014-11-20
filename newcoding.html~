@@ -1,51 +1,32 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+
+<link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+
 <title> Kaley Allan Portfolio </title>
-
+<meta charset="utf-8"/>
+<link rel"stylesheet" href="googlefonts">
+<link rel="stylesheet" href="style.css">
 <h1> Kaley Allan Portfolio</h1>
-
 
 </head>
 
 <body>
-<style>
 
-body{
-	background: lightyellow;
-}
-
-h1{
-	text-align: center;
-}
-
-img{
-	height:2em;
-	width: 2em;
-	
-}
-.navigationbar{
-	float:left;
-}
-.education{
-	float:left;
-}
-
-
-</style>
-
-<div class="navigationbar" style="float:left;">
+<div class="navigationbar">
 About
 </div>
-<div class="education" style="float:left;">
+<div class="education">
 Education
 </div>
+<div class="work and internships">
 Work and Internships
+</div>
+<div class="contact information">
 Contact Information
-
-
-<img src="fb_icon_325x325.jpg">
-<img src="Twitter_logo_blue.jpg">
+</div>
 
 
 </body>
