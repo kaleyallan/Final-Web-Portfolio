@@ -1,4 +1,4 @@
-<style>
+
 
 body{
 	background-color: #D7EEFA;
@@ -8,25 +8,29 @@ body{
 
 h1{
 	text-align: center;
-	background: #D7EEFA;
 	font-family: 'Pacifico', cursive;
-	margin:1em;
+	margin:.5em;
 	font-size: 400%;
 }
 
 img{
-	
+	margin:.5em;
+	height:38em;
+	width:45em;
+	float: left;
 	
 }
 
 
 .navigationbar{
 	float:left;
-	margin:5.5em;
+	margin:2em;
 	padding:1.5em;
-	background-color:#D7EEFA;
 	
 }
 
+.Background{
+	text-align:right;
+}
 
-</style>
+
