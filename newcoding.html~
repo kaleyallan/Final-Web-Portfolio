@@ -11,6 +11,7 @@
 
 <link rel="stylesheet" href="style.css">
 
+
 <h1> Kaley Allan Portfolio</h1>
 
 </head>
@@ -30,11 +31,15 @@ Work and Internships
 Contact Information
 </div>
 
+<div class="Background">
 <h2> Background</h2>
-<p>
-My name is Kaley Allan and I am a student at Saint Joseph's University in Philadelphia. I am a Communications major and a Music Industry Minor. I have done
 </p>
+<p>
+My name is Kaley Allan and I am a student at Saint Joseph's University in Philadelphia. I am a Communications major and a Music Industry Minor. 
+</p>
+</div>
 
+<img src="self.jpg">
 
 </body>
 

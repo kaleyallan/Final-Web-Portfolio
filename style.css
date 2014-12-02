@@ -9,15 +9,25 @@ body{
 h1{
 	text-align: center;
 	font-family: 'Pacifico', cursive;
-	margin:.5em;
 	font-size: 400%;
+}
+
+h2{
+	
+}
+
+p{
+	text-align:center;
+	font-size:170%;
 }
 
 img{
 	margin:.5em;
-	height:38em;
-	width:45em;
-	float: left;
+	height:20em;
+	width:27em;
+	float:right;
+	clear:both;
+	
 	
 }
 
@@ -25,12 +35,12 @@ img{
 .navigationbar{
 	float:left;
 	margin:2em;
-	padding:1.5em;
+	padding:3em;
 	
 }
 
 .Background{
-	text-align:right;
+	clear:left;
 }
 
 
