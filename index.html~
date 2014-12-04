@@ -20,16 +20,16 @@
 <body>
 
 <div class="navigationbar">
-About
+<a href="About.html">About</a>
 </div>
 <div class="navigationbar">
-Education
+<a href="Education.html">Education</a>
 </div>
 <div class="navigationbar">
-Work and Internships
+<a href="work and internships.html">Work and Internships</a>
 </div>
 <div class="navigationbar">
-Contact Information
+<a href="contactinfo.html">Contact Information</a>
 </div>
 <img src="self.jpg">
 
