@@ -1,22 +1,27 @@
 
 
 body{
-	background-color: #D7EEFA;
+	background-color: white;
 	font-family: 'Raleway', sans-serif;
+	
 	
 }
 
 h1{
 	text-align: center;
-	font-family: 'Pacifico', cursive;
-	font-size: 400%;
+	font-family: 'Playfair Display', serif;
+	font-size: 300%;
+	
+	
 }
 
 h2{
+	font-family: 'Playfair Display', serif;
 	
 }
 
 p{
+	font-family: 'Playfair Display', serif;
 	
 }
 
@@ -30,16 +35,31 @@ img{
 	
 }
 
+html{
+	border:solid;
+	border-color:lightblue;
+	border-width:3em;
+}
+
+
 
 .navigationbar{
 	float:left;
-	margin:2em;
-	padding:3em;
+	margin:3em;
+	padding:2em;
+	font-family: 'Playfair Display', serif;
+	
+	
 	
 }
 
 .Background{
 	clear:left;
+	text-align:center;
+	font-family: 'Playfair Display', serif;
+	
 }
+
+
 
 
