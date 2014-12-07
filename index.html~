@@ -19,9 +19,7 @@
 
 <body>
 
-<div class="navigationbar">
-<a href="About.html">About</a>
-</div>
+
 <div class="navigationbar">
 <a href="Education.html">Education</a>
 </div>
@@ -31,14 +29,25 @@
 <div class="navigationbar">
 <a href="contactinfo.html">Contact Information</a>
 </div>
+
+<div class="kaley">
 <img src="self.jpg">
+</div>
 
 <div class="Background">
 <h2> Background</h2>
 </p>
 <p>
-My name is Kaley Allan and I am a student at Saint Joseph's University in Philadelphia. I am a Communications major and a Music Industry Minor. 
+My name is Kaley Allan and I am a student at Saint Joseph's University in Philadelphia. 
+I am currently working towards getting a Bachelors Degree in Communicaitons with a minor in Music Industry. 
 </p>
+
+<p>
+I have done a number of internships in the Philadelphia area with venues such as the Electric Facory and the Trocadero.
+I have also interned for Livenation where I learned the booking process as well as how to construct contracts for big name arists coming into the area. 
+</p>
+
+<P> My Resume can be located <a href="Resume.docx">here</a>
 </div>
 
 
