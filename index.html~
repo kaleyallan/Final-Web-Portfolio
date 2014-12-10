@@ -21,6 +21,9 @@
 
 
 <div class="navigationbar">
+<a href="index.html">Home</a>
+</div>
+<div class="navigationbar">
 <a href="education.html">Education</a>
 </div>
 <div class="navigationbar">
@@ -30,13 +33,14 @@
 <a href="contactinfo.html">Contact Information</a>
 </div>
 
+
 <div class="kaley">
 <img src="self.jpg">
 </div>
 
 <div class="Background">
 <h2> Background</h2>
-</p>
+
 <p>
 Hello and welcome to my website! My name is Kaley Allan and I am a sophomore at Saint Joseph's University in Philadelphia. 
 I am currently working towards getting a Bachelors Degree in Communicaitons with a minor in Music Industry. 
