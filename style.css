@@ -22,11 +22,17 @@ h2{
 
 p{
 	font-family: 'Playfair Display', serif;
+	padding:.5em;
+	margin:1em;
+	
 	
 }
 
+
+
 img{
-	margin:.5em;
+	margin:1em;
+	padding:3em;
 	height:20em;
 	width:27em;
 	float:right;
@@ -44,12 +50,20 @@ html{
 
 
 .navigationbar{
-	float:left;
-	margin:3em;
-	padding:4.5em;
+	display:inline;
+	margin:2em;
+	padding:3.5em;
 	font-family: 'Playfair Display', serif;
+	color:blue;
 	
 	
+	
+	
+}
+
+a{
+	text-decoration:none;
+	color:blue;
 	
 }
 
@@ -57,10 +71,14 @@ html{
 	clear:left;
 	text-align:center;
 	font-family: 'Playfair Display', serif;
+	margin:1em;
+	padding:1em;
 	
 }
 
-
+.internship{
+	display:block;
+}
 
 
 
