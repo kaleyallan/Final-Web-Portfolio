@@ -4,7 +4,9 @@
 <title>
 Work and Internternships
 </title>
+<meta charset="utf-8"/>
 
+<link href='http://fonts.googleapis.com/css?family=Playfair+Display' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="style.css">
 
 <h1>Work and Internships</h1>
@@ -13,10 +15,23 @@ Work and Internternships
 
 <body>
 
+<div class="navigationbar">
+<a href="index.html">Home</a>
+</div>
+<div class="navigationbar">
+<a href="education.html">Education</a>
+</div>
+<div class="navigationbar">
+<a href="work and internships.html">Work and Internships</a>
+</div>
+<div class="navigationbar">
+<a href="contactinfo.html">Contact Information</a>
+</div>
+
 <p>
 <h2>Internships:</h2>
 
-
+<div class="internship">
 <ol>Livenation: </ol>
 <ul>At Livenation I worked under booking assistant Molly Warren. I interned my entire senior year of highschool and the summer going into my freshman year of college.
 I learned how to put together contracts for upcoming concerts in the Philadelphia area, as well as updatind the calenders of the other concert bookers in the office.
@@ -31,6 +46,7 @@ I also helped put together contracts for upcoming shows at the Electric Factory.
 <ul>At the Trocadero I worked under Andrew Lipke to put on "The Last Waltz" which was a tribute to The Band. 
 I helped get the stage set up as well as making sure the dressing rooms were set up accordingly. This internship taught me the hard work and time that goes into setting up a concert that only lasts a few hours.
 </ul>
+</div>
 
 <h2>Work:</h2>
 <ol>Oaks Early Learning Center</ol>
